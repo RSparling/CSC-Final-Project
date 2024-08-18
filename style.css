@@ -19,7 +19,7 @@ body::before {
     /* Inserts an empty string before the body content */
     content: "";
     /* Sets a background image for the pseudo-element */
-    background-image: url('bg_image.webp');
+    background-image: url('./images/bg_image.webp');
     /* Ensures the background image covers the entire pseudo-element */
     background-size: cover;
     /* Centers the background image */
