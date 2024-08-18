@@ -57,6 +57,11 @@ body::before {
     margin: 1%;
 }
 
+.content img {
+    max-width: 100%;
+    height: auto;
+}
+
 /* The .navbar class styles the navigation bar */
 .navbar {
     /* Ensures that the navbar does not overflow its container */
@@ -185,3 +190,4 @@ footer {
     /* 60% to put it on the right side */
     margin-left: 65%;
 }
+
